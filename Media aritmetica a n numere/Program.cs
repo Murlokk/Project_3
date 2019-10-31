@@ -13,7 +13,7 @@ namespace Media_aritmetica_a_n_numere
             int NumarulIntrodus;
             int n, Numarator = 1;
             float MediaAritmetica, Suma = 0;
-            Console.WriteLine("Introduce numarul de numere pe care doriti sa aflati media aritmetica :");
+            Console.WriteLine("Introduce numarul n :");
             n = Convert.ToInt32(Console.ReadLine());
             while (Numarator <= n)
             {
