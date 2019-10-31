@@ -1,0 +1,11 @@
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\obj\Debug\netcoreapp2.1\Media aritmetica a n numere.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\obj\Debug\netcoreapp2.1\Media aritmetica a n numere.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\obj\Debug\netcoreapp2.1\Media aritmetica a n numere.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\obj\Debug\netcoreapp2.1\Media aritmetica a n numere.AssemblyInfo.cs
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\bin\Debug\netcoreapp2.1\Media aritmetica a n numere.deps.json
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\bin\Debug\netcoreapp2.1\Media aritmetica a n numere.runtimeconfig.json
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\bin\Debug\netcoreapp2.1\Media aritmetica a n numere.runtimeconfig.dev.json
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\bin\Debug\netcoreapp2.1\Media aritmetica a n numere.dll
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\bin\Debug\netcoreapp2.1\Media aritmetica a n numere.pdb
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\obj\Debug\netcoreapp2.1\Media aritmetica a n numere.dll
+C:\Users\alexa\Desktop\C# Testing\Media aritmetica a n numere\obj\Debug\netcoreapp2.1\Media aritmetica a n numere.pdb
